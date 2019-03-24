@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+    Git creates a directory called .git which contains all the metadata
+    needed to keep track of the versions of all the files contained in the
+    directory. I need to initialize it because Git will only consider my 
+    directory as a reposity if I explicitly tell it through this command.
+
