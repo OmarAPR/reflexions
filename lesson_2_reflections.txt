@@ -5,3 +5,10 @@ What happens when you initialize a repository? Why do you need to do it?
     directory. I need to initialize it because Git will only consider my 
     directory as a reposity if I explicitly tell it through this command.
 
+How is the staging area different from the working directory and the
+repository? What value do you think it offers?
+
+    It is an intermediate stage between the working directory and the
+    repository. It allows to select which files are going to be included
+    in the repository and which not (tracked or untracked)
+
