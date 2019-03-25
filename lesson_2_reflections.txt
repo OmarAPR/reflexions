@@ -12,3 +12,34 @@ repository? What value do you think it offers?
     repository. It allows to select which files are going to be included
     in the repository and which not (tracked or untracked)
 
+How can you use the staging area to make sure you have one commit per logical
+change?
+
+    I can add to the staging area only the files that containg the logical
+    change and keep the others only in the working directory.
+
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+
+    When making an experimental change in the files. If the experiment results, then
+    I can merge it with the master branch to include it in the functional version, if
+    not, I can ignore that branch in the future and continue with the master.
+
+How do the diagrams help you visualize the branch structure?
+
+    It allows to see which commits are visible to each branch
+
+What is the result of merging two branches together? Why do we represent it in the
+diagram the way we do?
+
+    The result is that two branches become one, and the files they include are
+    combined to include all the features and code added in both branches.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges
+manually?
+
+    It is commonly very useful, but the programmers have to be aware that 
+    automatic merging will be done to program in a way that it is possible.
+    A pro is that it is commonly faster than doing it manually, but a con is
+    that it does not always work correctly and sometimes it is necessary to 
+    do manual changes.
