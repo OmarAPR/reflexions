@@ -3,3 +3,8 @@ your work local?
 
   When I want to share my code, when I work in different computers, when
   I work in collaboration with other people.
+
+Why might you want to always pull changes manually rather than having Git
+automatically stay up-to-date with your remote repository?
+
+  Because... I don't know.
