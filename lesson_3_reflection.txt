@@ -18,3 +18,9 @@ you use one instead of another?
   of copying a repository with all the metadata of Git. And a branch is a
   division of the history of the commits, which can be merged with the master
   whenever the user prefers.
+
+What is the benefit of having a copy of the last known state of the remote
+stored locally?
+
+  You can know which changes have been made by other people since the last
+  time you pulled.
