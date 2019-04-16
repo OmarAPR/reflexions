@@ -24,3 +24,11 @@ stored locally?
 
   You can know which changes have been made by other people since the last
   time you pulled.
+
+How would you collaborate without using Git or GitHub? What would be easier,
+and what would be harder?
+
+  I would transfer the files of the project via WhatsApp or Facebook. The
+  easier thing would be that everyone knows how to use those applications,
+  hence we do not need to learn how to use Git and GitHub. The harder would
+  be to compare the changes and merge them.
