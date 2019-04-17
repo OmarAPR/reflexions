@@ -32,3 +32,10 @@ and what would be harder?
   easier thing would be that everyone knows how to use those applications,
   hence we do not need to learn how to use Git and GitHub. The harder would
   be to compare the changes and merge them.
+
+When would you want to make changes in a separate branch rather than directly
+in master? What benefits does each approach have?
+
+  When working on an experimental feature of the project. Also when working
+  on independent features in a team. Each one can work in a different branch
+  and merge them whenever they are done with their work.
